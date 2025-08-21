@@ -1,2 +1,2 @@
 # learn
-learning git<br>with shraddha khapra
+learning git<br>with shraddha khapra by (akshay singh)
